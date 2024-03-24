@@ -85,6 +85,7 @@ let AuraProductIDs = [
     0x1872,
     0x1867,
     0x1889,
+    0x19af, // ASUS TUF GAMING PRO WiFi DDR5
     // potentially: 0x1939,
 ]
 
